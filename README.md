@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Djhonathan e atuo em <strong>Embedded Systems</strong>.
-  Estou me formando em Engenharia Elétrica com ênfase em Sistemas Eletrônicos Embarcados pela Universidade Federal do Paraná. Sou admirador da eletrônica digital,   microcontroladores e IoT e atualmente trabalho como desenvolvedor de Firmware.<br>
+  Estou me formando em Engenharia Elétrica com ênfase em Sistemas Eletrônicos Embarcados pela Universidade Federal do Paraná. Sou admirador da eletrônica digital, microcontroladores e IoT e atualmente trabalho como desenvolvedor de Firmware.<br>
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 <p align="left">
   💼 Ferramentas:
 <ul>
-<li><strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M4/M7 based
+<li><strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M3/M7 based microcontrollers
 <li>Arduino, Esp8266 and Esp32 for Wifi and RFID applications
 <li>IONinja Debbuger;
 <li>QUCS, KiCAD and Proteus for electronic circuit simulations and prototyping.</strong>
