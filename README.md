@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Djhonathan e atuo em <strong>Embedded Systems</strong>.
+  Me chamo Djhonathan e atuo no desenvolvimento de <strong>Embedded Systems</strong>.<br>
   Estou me formando em Engenharia Elétrica com ênfase em Sistemas Eletrônicos Embarcados pela Universidade Federal do Paraná. Sou admirador da eletrônica digital, microcontroladores e IoT e atualmente trabalho como desenvolvedor de Firmware.<br>
 </p>
 
