@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas:
+  ⚙️ Ferramentas:
 <ul>
 <li><strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M3/M7 based microcontrollers;
 <li>Arduino, Esp8266 and Esp32 for Wifi and RFID applications;
