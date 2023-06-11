@@ -25,8 +25,7 @@
 <p align="left">
   📫 Para entrar em contato comigo:
 <ul>
-<li>djhonathan@paiva.dev<br>
-<li><a href="#" alt="Linkedin">
+<li>djhonathan@paiva.dev | <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djhonathan-henrique-paiva/" /></a>
 </ul>
 </p>
