@@ -12,9 +12,10 @@
 <p align="left">
   💼 Ferramentas:
 <ul>
-  <li><strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M4/M7 based
-  <li>Arduino, Esp8266 and Esp32 for Wifi and RFID applications
-  <li>IONinja Debbuger;<br>QUCS, KiCAD and Proteus for electronic circuit simulations and prototyping.</strong>
+<li><strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M4/M7 based
+    <li>Arduino, Esp8266 and Esp32 for Wifi and RFID applications
+        <li>IONinja Debbuger;
+            <li>QUCS, KiCAD and Proteus for electronic circuit simulations and prototyping.</strong>
 </p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhpn3&layout=compact&theme=dracula)](https://github.com/dhpn3?tab=repositories)
