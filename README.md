@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Djhonathan e atuo no desenvolvimento de <strong>Embedded Systems</strong>.<br>
-  Estou me formando em Engenharia Elétrica com ênfase em Sistemas Eletrônicos Embarcados pela Universidade Federal do Paraná. Sou admirador da eletrônica digital, microcontroladores e IoT e atualmente trabalho como desenvolvedor de Firmware.<br>
+  Estou me formando em Engenharia Elétrica com ênfase em Sistemas Eletrônicos Embarcados pela Universidade Federal do Paraná. Sou admirador da eletrônica digital, microcontroladores, IoT e atualmente trabalho como desenvolvedor de Firmware.<br>
 </p>
 
 <p align="left">
