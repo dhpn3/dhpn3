@@ -10,13 +10,19 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M4/M7 based;<br> Arduino, Esp8266 and Esp32 for Wifi and RFID applications;<br>IONinja Debbuger;<br>QUCS, KiCAD and Proteus for electronic circuit simulations and prototyping.</strong><br>
+  💼 Ferramentas:
+<ul>
+  <li><strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M4/M7 based
+  <li>Arduino, Esp8266 and Esp32 for Wifi and RFID applications
+  <li>IONinja Debbuger;<br>QUCS, KiCAD and Proteus for electronic circuit simulations and prototyping.</strong>
 </p>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhpn3&layout=compact&theme=dracula)](https://github.com/dhpn3?tab=repositories)
+
 
 <p align="left">
   📫 Para entrar em contato comigo: djhonathan@paiva.dev
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhpn3&layout=compact&theme=dracula)](https://github.com/dhpn3?tab=repositories)
+</p>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djhonathan-henrique-paiva/" /></a>
