@@ -1,37 +1,24 @@
-### Eae, me chamo Djhonathan Henrique, sou estudante e entusiasta no desenvolvimento de projetos de sistemas eletrônicos e embarcados.
-### Por influência e necessidade, comecei a curtir bastante a área de software.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🔭 Hoje em dia trabalho na área de Sistemas Embarcados;
-- 🌱 Estou para me formar em Eng. Eletrica com ênfase em Embarcados;
-- 🌱🌱 Alem da area de Eng. estou estudando algumas linguagens de programação, como C++ e sistemas de hardware haking;
-- 📫 Para entrar em contato comigo: bota seu email makako
+<p align="left"> 
+  Me chamo Djhonathan e atuo em <strong>Embedded Systems</strong>.
+  Estou me formando em Engenharia Elétrica com ênfase em Sistemas Eletrônicos Embarcados pela Universidade Federal do Paraná. Sou admirador da eletrônica digital,   microcontroladores e IoT e atualmente trabalho como desenvolvedor de Firmware.<br>
+</p>
 
-*
-- *Segue o meu status no Github*
+<p align="left">
+  💻 Linguagens: <strong>Embedded C/C++, Python.</strong>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhpn3&show_icons=true&count_private=true&theme=dracula#gh-dark-mode-only)
+<p align="left">
+  💼 Ferramentas: <strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M4/M7 based;<br> Arduino, Esp8266 and Esp32 for Wifi and RFID applications;<br>IONinja Debbuger;<br>QUCS, KiCAD and Proteus for electronic circuit simulations and prototyping.</strong><br>
+</p>
 
-*
+<p align="left">
+  📫 Para entrar em contato comigo: djhonathan@paiva.dev
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhpn3&layout=compact&theme=dracula)](https://github.com/dhpn3?tab=repositories)
 
-- *Repositórios bacanas:*
-
-<a href="https://github.com/dhpn3/ControleDeAcesso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhpn3&repo=ControleDeAcesso&theme=dracula" />
-</a>
-<a href="https://github.com/dhpn3/Calculadora_Resistor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhpn3&repo=Calculadora_Resistor&theme=dracula" />
-</a>
-<a href="https://github.com/dhpn3/Atividades_POOCpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhpn3&repo=Atividades_POOCpp&theme=dracula" />
-</a>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djhonathan-henrique-paiva/" /></a>
 
 
-*
-
-- *Principais Linguagens:*
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhpn3&layout=compact&theme=dracula)](https://github.com/dhpn3?tab=repositories)
-
-*
-
-- O repositorio que utilizei para fazer esse readme foi: https://github.com/anuraghazra/github-readme-stats
