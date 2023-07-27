@@ -14,8 +14,8 @@
 <ul>
 <li><strong>NXP LPCXpresso/MCUXpresso to ARM Cortex M0/M3/M7 based microcontrollers;
 <li>Arduino, Esp8266 and Esp32 for WIFI and RFID applications;
-<li>IONinja Debbuger;
-<li>QUCS, KiCAD and Proteus for electronic circuit simulations and prototyping.</strong>
+<li>IONinja Terminal Debbuger and Protocol Analyzer;
+<li>QUCS, KiCAD and Proteus for simulations and prototyping of electronic circuit.</strong>
 </ul>
 </p>
 
