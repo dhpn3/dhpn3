@@ -22,7 +22,9 @@
 <p align="left">
   📫 Para entrar em contato comigo:
 <ul>
-<li> [![Email Badge](https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=minutemailer&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:djhonathan@paiva.dev) |  <a href="https://www.linkedin.com/in/djhonathan-henrique-paiva/" alt="Linkedin">
+<li>     <a href="mailto:djhonathan@paiva.dev">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-62F1CD?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3A3B3C" alt="Email Badge">
+    </a> |  <a href="https://www.linkedin.com/in/djhonathan-henrique-paiva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djhonathan-henrique-paiva/"/></a>
 </ul>
 </p><hr>
